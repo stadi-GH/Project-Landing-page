@@ -1,1 +1,169 @@
 
+ 
+
+ body{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    color:default;
+    border: 2px solid blue;
+    width:fit-content;
+    margin-left: auto;
+    margin-right:auto;
+    
+ }
+
+.header{
+
+   color:blue ;
+   background-color: aliceblue;
+   padding-bottom: 7px;
+   text-align: left;
+   margin-left: 10px;
+} 
+
+.mixed-text{
+   color:white;
+   background-color:black;
+   display:flex;
+   flex-direction: column;
+   padding-top:10px;
+   padding-bottom: 10px;
+   border: 0px;
+   margin-top: -30px;
+
+}
+.big-text{
+   font-size: larger;
+}
+
+.second-mixed{
+   color:white;
+   background-color: black;
+   display:flex;
+   flex-direction: column;
+   padding-top: 20px;
+   padding-bottom: 10px;
+   margin-top: -20px;
+
+}
+
+.second-big{
+   font-size: x-large;
+}
+
+.third-mixed{
+   color:white;
+   background-color: black;
+   display:flex;
+   flex-direction: column;
+   padding-top: 20px;
+   padding-bottom: 10px;
+   margin-top:-20px;
+}
+
+.third-big{
+   font-size: xx-large;
+   padding-left:3px;
+   padding-right: 3px;
+   margin-left: 5px;
+   margin-right: 5px;
+}
+
+.fourth-mixed{
+   color:white;
+   background-color: black;
+   display:flex;
+   flex-direction: column;
+   padding-top:20px;
+   padding-bottom: 10px;
+   margin-top:-18px;
+}
+
+.fourth-big{
+   font-size: larger;
+   font-weight:600 ;
+}
+
+.fifth-mixed{
+   color:white;
+   background-color: black;
+   display:flex;
+   flex-direction: column;
+   padding-top:20px;
+   padding-bottom: 10px;
+   margin-top: -18px;
+}
+
+.fifth-big{
+   font-size: large;
+
+}
+
+.sixth-mixed{
+   color:black;
+   background-color: white;
+   display:flex;
+   flex-direction: column;
+   padding-top: 20px;
+   padding-bottom:10px;
+   margin-top:-20px;
+   margin-left: 10px;
+   text-align:left;
+   margin-left:10px;
+   margin-bottom: 20px;
+}
+
+.sixth-big{
+   color:blue;
+
+}
+
+.seventh-mixed{
+   color:black;
+   background-color:white;
+   display:flex;
+   padding-top:20px;
+   padding-bottom: 10px;
+   margin-left:0px;
+   flex-direction: column;
+   font-size: large;
+   text-align: left;
+   margin-left:10px;
+
+}
+
+.seventh-big{
+   font-size:xx-large;
+   font-weight: 900;
+}
+
+.about{
+   color:black;
+   background-color: aquamarine;
+   display:flex;
+   flex-direction: column;
+   padding-top: -30px;
+}
+
+.eighth-mixed{
+   display: flex;
+   flex-direction:column;
+   text-align:left;
+   margin-left:10px;
+
+}
+
+.eighth-big{
+   font-size: larger;
+   text-align: left;
+   margin-left:5px;
+}
+
+.ninth-big{
+   font-size: xx-large;
+   font-weight: 300;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin-left: -10px;
+   margin-right: -20px;
+}
